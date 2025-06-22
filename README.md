@@ -33,3 +33,4 @@ Each folder contains an end-to-end project solving real-world problems using Pyt
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/laninchowdhury)  
 View more work on [GitHub](https://github.com/laninchowdhury)
+![Churn Prediction Accuracy](churn_chart.png)
