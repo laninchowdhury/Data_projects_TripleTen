@@ -32,3 +32,10 @@ Taxi companies face fluctuating demand. Predicting when and where rides are need
 - `data/` – Raw and processed time series data
 ![Churn Distribution](images/Churn_distribution.png)
 ![ROC Curve](images/sklearn_metrics_roc.png)
+## 📊 Visuals
+
+### Hourly Forecasted Taxi Demand  
+![Hourly Demand](images/Hourly_Demand.png)
+
+### Time Series Decomposition (Trend, Seasonality, Residuals)  
+![Decomposed Components](images/Time_series_decompose.png)
