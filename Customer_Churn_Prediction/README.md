@@ -29,3 +29,10 @@ Telecom companies lose revenue when customers churn. We want to build a predicti
 
 - `churn_model.ipynb` – Main analysis notebook  
 - `data/` – Cleaned data
+## 📊 Visuals
+
+### Customer Tenure Distribution
+![Churn Distribution](images/Churn_distribution.png)
+
+### ROC Curve for All Models
+![ROC Curve](images/sklearn_metrics_roc.png)
