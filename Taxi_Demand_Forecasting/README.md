@@ -30,3 +30,5 @@ Taxi companies face fluctuating demand. Predicting when and where rides are need
 
 - `taxi_forecasting.ipynb` – Main notebook  
 - `data/` – Raw and processed time series data
+![Churn Distribution](images/Churn_distribution.png)
+![ROC Curve](images/sklearn_metrics_roc.png)
