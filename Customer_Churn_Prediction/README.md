@@ -43,13 +43,13 @@ Telecom companies lose revenue when customers churn. We aim to build a predictiv
 
 ---
 
-## 🖼️ Visuals
+## 📊 Visualizations
 
-### 📌 Customer Tenure Distribution
+**Churn Distribution**  
 ![Churn Distribution](images/Churn_distribution.png)
 
-### 📌 ROC Curve for All Models
-![ROC Curve](images/sklearn_metrics_roc.png)
+**ROC Curve**  
+![ROC Curve](images/AUC_ROC.png)
 
 ---
 
