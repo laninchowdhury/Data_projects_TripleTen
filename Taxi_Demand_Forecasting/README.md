@@ -39,6 +39,7 @@ Taxi companies face fluctuating demand. Predicting when and where rides are need
 
 **Predicted Taxi Orders by Hour**
 ![Hourly Demand](images/Hourly_Demand.png)
+
 🧾 Conclusion
 
 This project successfully demonstrated how time series forecasting can improve taxi fleet management. By identifying seasonal trends and using machine learning models like Random Forest and SARIMA, we were able to predict hourly taxi demand with reasonable accuracy. The insights can help taxi companies better allocate resources during peak hours, ultimately enhancing operational efficiency and customer satisfaction.
