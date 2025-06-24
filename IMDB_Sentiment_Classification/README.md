@@ -41,3 +41,11 @@ Build a reliable sentiment classification model with high F1 score, using TF-IDF
 ---
 
 Let me know if you'd like a personalized repo name or help uploading the project to GitHub!
+
+## 📁 Files
+- `Sentiment_analysis.ipynb`: Main notebook with full analysis.
+- `images/`: Contains visual charts used in the report.
+
+---
+
+Let me know if you'd like a personalized repo name or help uploading the project to GitHub!
