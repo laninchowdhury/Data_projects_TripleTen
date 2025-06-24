@@ -32,10 +32,14 @@ Taxi companies face fluctuating demand. Predicting when and where rides are need
 - `data/` – Raw and processed time series data
 ![Churn Distribution](images/Churn_distribution.png)
 ![ROC Curve](images/sklearn_metrics_roc.png)
-## 📊 Visuals
+📊 Visualizations
 
-### Hourly Forecasted Taxi Demand  
+**Time Series Decomposition**
+![Time Series Decomposition](images/Time_series_decompose.png)
+
+**Predicted Taxi Orders by Hour**
 ![Hourly Demand](images/Hourly_Demand.png)
+🧾 Conclusion
 
-### Time Series Decomposition (Trend, Seasonality, Residuals)  
-![Decomposed Components](images/Time_series_decompose.png)
+This project successfully demonstrated how time series forecasting can improve taxi fleet management. By identifying seasonal trends and using machine learning models like Random Forest and SARIMA, we were able to predict hourly taxi demand with reasonable accuracy. The insights can help taxi companies better allocate resources during peak hours, ultimately enhancing operational efficiency and customer satisfaction.
+
