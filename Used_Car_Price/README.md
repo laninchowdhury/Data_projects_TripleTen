@@ -39,4 +39,5 @@ The project successfully built a regression model to predict used car prices bas
 ✍️ Author
 
 Lanin Chowdhury
+
 Data Science Portfolio Project
