@@ -41,4 +41,3 @@ Build a reliable sentiment classification model with high F1 score, using TF-IDF
 
 ---
 
-Let me know if you'd like a personalized repo name or help uploading the project to GitHub!
