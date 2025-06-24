@@ -34,13 +34,11 @@ Taxi companies face fluctuating demand. Predicting when and where rides are need
 ![ROC Curve](images/sklearn_metrics_roc.png)
 📊 Visualizations
 
-![Hourly Demand](images/Hourly_Demand.png)
+
 
 **Time Series Decomposition**
 ![Time Series Decomposition](images/Time_series_decompose.png)
 
-**Predicted Taxi Orders by Hour**
-![Hourly Demand](images/Hourly_Demand.png)
 
 🧾 Conclusion
 
