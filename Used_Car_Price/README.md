@@ -26,3 +26,13 @@ Buying or selling used cars is tricky without knowing fair prices. This project 
 
 ## 📊 Visuals
 Add visuals here (price distribution, feature importance, etc.)
+## 📊 Visuals
+
+### Price Distribution
+![Price Distribution](images/price_distribution.png)
+
+### Residual Plot
+![Residual Plot](images/residual_plot.png)
+
+### Feature Importance
+![Feature Importance](images/feature_importance.png)
