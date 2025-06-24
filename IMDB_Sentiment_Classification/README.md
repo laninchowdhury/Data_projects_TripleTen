@@ -1,31 +1,19 @@
-# IMDB Sentiment Classification
+## 📊 Visualizations
 
-This project classifies IMDB movie reviews as **positive** or **negative** using Natural Language Processing (NLP) techniques.
+### 1. Distribution of Reviews (Train/Test Splits)
+![Train-Test Review Distribution](images/train_test_split_distribution.png)
 
-## 🎯 Problem
+Distribution of negative and positive reviews over the years for both training and testing datasets.  
+A consistent pattern confirms balanced splitting, ensuring reliability in model evaluation.  
+Many movies reviewed indicate density clusters near zero, while some generate significant volumes.
 
-Businesses want to understand customer sentiment from reviews. Manual analysis is slow and subjective. We use machine learning to automate this.
+---
 
-## 🛠️ Tools & Technologies
+### 2. Model Evaluation Curves
+![Model Evaluation](images/model_evaluation_curves.png)
 
-- Python, pandas, NumPy  
-- NLTK (Natural Language Toolkit)  
-- scikit-learn, matplotlib, seaborn
+- **F1 Score**: Test max = 0.87 at threshold 0.45  
+- **ROC AUC**: Train = 0.98 | Test = 0.94  
+- **PRC**: Train = 0.98 | Test = 0.93  
 
-## 🔄 Process Overview
-
-1. **Text Cleaning** – Removed stopwords, punctuation, and HTML tags  
-2. **Tokenization** – Broke text into meaningful words  
-3. **Vectorization** – Used TF-IDF to convert text to numbers  
-4. **Modeling** – Naive Bayes, Logistic Regression  
-5. **Evaluation** – Accuracy, Precision, Recall
-
-## 📈 Results
-
-- Best Model: Logistic Regression with 87% accuracy  
-- Learned which words are strong indicators of sentiment
-
-## 📁 Files
-
-- `imdb_sentiment.ipynb` – Main notebook  
-- `data/` – Dataset and cleaned files
+These plots demonstrate strong classifier performance, with TF-IDF successfully transforming text into vector representations.
