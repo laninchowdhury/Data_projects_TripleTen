@@ -24,15 +24,11 @@ Buying or selling used cars is tricky without knowing fair prices. This project 
 - `Used_Car_Price.ipynb` – Main notebook
 - `images/` – Visual charts
 
-## 📊 Visuals
-Add visuals here (price distribution, feature importance, etc.)
-## 📊 Visuals
+### 📊 Visualizations
 
-### Price Distribution
-![Price Distribution](images/price_distribution.png)
+#### Boxplot of Price by Vehicle Type
+![Boxplot of Price by Vehicle Type](images/Boxplot_vehicle_price.png)
 
-### Residual Plot
-![Residual Plot](images/residual_plot.png)
+#### Distribution of Car Prices
+![Distribution of Car Prices](images/Price_distribution.png)
 
-### Feature Importance
-![Feature Importance](images/feature_importance.png)
