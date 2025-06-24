@@ -1,0 +1,11 @@
+## 📊 Exploratory Data Analysis
+
+Balanced train-test splits show consistent distribution across years and sentiment classes:
+
+![Train-Test Split Distribution](split_Distribution.png)
+
+## 🧠 Model Evaluation
+
+High F1 score, ROC AUC, and PRC demonstrate strong model performance:
+
+![Model Evaluation Curves](evaluation_curves.png)
