@@ -35,3 +35,8 @@ Buying or selling used cars is tricky without knowing fair prices. This project 
 ## 🧾 Conclusion
 
 The project successfully built a regression model to predict used car prices based on features such as age, mileage, and brand. Random Forest emerged as the best-performing model, offering the lowest RMSE and the highest R² score. The insights gained from the data—like price trends by car type and the importance of age/mileage—can help sellers price their vehicles more competitively and assist buyers in evaluating fair market values. This model can be further improved with more granular data or real-time pricing feeds.
+
+✍️ Author
+
+Lanin Chowdhury
+Data Science Portfolio Project
