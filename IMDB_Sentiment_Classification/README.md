@@ -22,11 +22,9 @@ Build a reliable sentiment classification model with high F1 score, using TF-IDF
 
 ## 📊 Visualizations
 
-**Review Distribution**
-![Train-Test Review Split](images/Train_test_split_distribution.png)
+![Train/Test Distribution](images/Train_test_split_distribution.png)
 
-**Model Evaluation**
-![Model Performance](images/model_evaluation_curves.png)
+![Model Evaluation Curves](images/model_evaluation_curves.png)
 
 ## ✅ Results
 - **Accuracy**: 0.86
