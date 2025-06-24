@@ -27,9 +27,7 @@ Each folder contains an end-to-end project solving real-world problems using Pyt
    Advanced churn prediction using multiple classifiers. Emphasis on improving F1 score with balanced accuracy, precision, and recall.
 
 ---
-![Model Evaluation](./model_evaluation_curves.png)
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![NLP](https://img.shields.io/badge/NLP-TF--IDF%20|%20LogReg-yellow)
 
 
 ## 🛠️ Tools & Technologies
@@ -49,4 +47,3 @@ A curated collection of data science projects completed through the TripleTen Bo
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/laninchowdhury)  
 View more work on [GitHub](https://github.com/laninchowdhury)
-![Churn Prediction Accuracy](churn_chart.png)
