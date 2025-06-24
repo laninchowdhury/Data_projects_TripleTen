@@ -1,4 +1,4 @@
-# Beta Bank Customers: Predicting Customer Churn with Maximum F1 Score
+## Beta Bank Customers: Predicting Customer Churn with Maximum F1 Score
 
 This project focuses on predicting customer churn for Beta Bank using various classification models, aiming to maximize the **F1 score** for balanced performance.
 
