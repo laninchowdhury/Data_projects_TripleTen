@@ -30,15 +30,15 @@ Taxi companies face fluctuating demand. Predicting when and where rides are need
 
 - `taxi_forecasting.ipynb` – Main notebook  
 - `data/` – Raw and processed time series data
-![Churn Distribution](images/Churn_distribution.png)
-![ROC Curve](images/sklearn_metrics_roc.png)
+- 
 📊 Visualizations
-
 
 
 **Time Series Decomposition**
 ![Time Series Decomposition](images/Time_series_decompose.png)
 
+#### Predicted Taxi Orders (Next 24 Hours)  
+![Hourly Demand](images/Hourly_Demand.png)
 
 🧾 Conclusion
 
