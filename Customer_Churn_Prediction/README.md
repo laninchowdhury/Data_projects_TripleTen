@@ -57,3 +57,6 @@ Telecom companies lose revenue when customers churn. We aim to build a predictiv
 
 The model can effectively predict customers at risk of churn. The project highlights key features influencing churn, which can guide retention strategies.
 
+✍️ Author
+Lanin Chowdhury
+Data Science Portfolio Project
