@@ -1,4 +1,4 @@
-# Data Projects – TripleTen
+# Data Projects_TripleTen
 
 Welcome to my portfolio of data science projects completed during the TripleTen Bootcamp.  
 Each folder contains an end-to-end project solving real-world problems using Python, statistics, machine learning, and data visualization.
