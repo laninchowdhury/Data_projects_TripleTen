@@ -1,32 +1,69 @@
 # Beta Bank Customers: Predicting Customer Churn with Maximum F1 Score
 
-This project focuses on predicting customer churn at Beta Bank using machine learning models. The goal is to maximize the F1 Score to balance precision and recall, ensuring high retention insights.
+This project focuses on predicting customer churn for Beta Bank using various classification models, aiming to maximize the **F1 score** for balanced performance.
 
-## 🧩 Problem Statement
-Customer churn can significantly impact a bank’s revenue. By predicting churn early, the bank can implement retention strategies. This project aims to create a reliable predictive model.
+---
+
+## 🧩 Problem
+
+Churn prediction helps banks retain customers by identifying those likely to leave. The goal is to build a reliable machine learning model that detects churners with high accuracy and F1 score.
+
+---
 
 ## 🛠️ Tools & Technologies
-- Python, pandas, NumPy
+
+- Python (pandas, NumPy)
 - scikit-learn
 - matplotlib, seaborn
+- Jupyter Notebook
+
+---
 
 ## 🔄 Process Overview
-- **Data Cleaning:** Missing values handled and features encoded
-- **EDA:** Identified trends between tenure, balance, and churn
-- **Modeling:** Logistic Regression, Random Forest, XGBoost
-- **Evaluation:** Focused on optimizing F1 Score due to class imbalance
 
-## 📈 Visualizations
+1. **Data Preprocessing**
+   - Handled missing values and encoded categorical features.
+2. **EDA**
+   - Analyzed customer behaviors and features.
+3. **Model Training**
+   - Logistic Regression
+   - Logistic Regression with Oversampling
+   - Random Forest with Undersampling
+   - Gradient Boosting
+4. **Evaluation**
+   - F1 Score
+   - ROC-AUC Score
 
-**Customer Tenure Distribution**
-![Churn Distribution](images/churn_distribution.png)
+---
 
-**AUC-ROC Curve**
-![AUC Curve](images/auc_curve.png)
+## 📈 Results
+
+- **Best Model**: Gradient Boosting Classifier
+- **Top Metrics**:
+  - F1 Score ≈ 0.63
+  - ROC-AUC ≈ 0.87
+
+---
+
+## 📊 Visualizations
+
+**F1 Scores of Different Models**  
+![F1 Scores](images/F1_score_comparison.png)
+
+**ROC-AUC Scores of Different Models**  
+![ROC-AUC Scores](images/ROC_AUC_comparison.png)
+
+---
 
 ## 📁 Files
-- `beta_churn_model.ipynb` – Full notebook with EDA, modeling, and evaluation
-- `images/` – Charts used for better interpretation
+
+- `Beta_bank_churn.ipynb` – Main notebook
+- `images/` – Contains performance visualizations
+- `README.md` – Project overview
+
+---
 
 ## ✅ Conclusion
-The Random Forest model achieved the highest F1 Score, effectively identifying customers likely to churn. Tenure and account balance were among the top predictors. This model can help Beta Bank proactively reduce churn and improve customer retention.
+
+The Gradient Boosting Classifier yielded the highest F1 and ROC-AUC scores, making it the most effective model for identifying churners. This solution can significantly aid Beta Bank in proactive customer retention strategies and improving business decisions.
+
