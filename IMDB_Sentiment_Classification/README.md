@@ -17,24 +17,24 @@ Classify IMDB reviews into **positive** or **negative** sentiments using natural
 - Texts were preprocessed and vectorized using **TF-IDF**.
 
 ---
-IMDB_Sentiment_Classification/images/split_distribution.png
-IMDB_Sentiment_Classification/images/evaluation_curves.png
 
-## 🧪 Train-Test Split Distribution
 
-![Train-Test Distribution](Train_test_split_distribution.png)
+## 📊 Train-Test Split Distribution
 
-> A consistent pattern between the train and test sets confirms balanced splitting, ensuring reliable model evaluation. Many movies received few reviews, while others generated significant review volumes.
+![Train-Test Split Distribution](images/split_distribution.png)
+
+_A consistent pattern between the train and test confirms balanced splitting, ensuring reliability in model evaluation. Many movies reviewed indicating density clusters close to zero. Some movies generate significant review volumes._
 
 ---
 
 ## 📈 Model Performance
 
-![Model Evaluation Curves](model_evaluation_curves.png)
+![Evaluation Curves](images/evaluation_curves.png)
 
-- **Test Accuracy**: `0.86` – solid generalization.
-- **Test F1 Score**: `0.87` – balanced precision and recall.
-- **TF-IDF** successfully transformed reviews into numerical vectors.
+_Test Accuracy 0.86, reflecting well predictions across diverse reviews.  
+Test F1 Score 0.87 demonstrating strong balance between precision and recall.  
+TF-IDF successfully transformed text into vectors.
+
 
 ---
 
