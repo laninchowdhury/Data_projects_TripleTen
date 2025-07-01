@@ -17,6 +17,8 @@ Classify IMDB reviews into **positive** or **negative** sentiments using natural
 - Texts were preprocessed and vectorized using **TF-IDF**.
 
 ---
+IMDB_Sentiment_Classification/images/split_distribution.png
+IMDB_Sentiment_Classification/images/evaluation_curves.png
 
 ## 🧪 Train-Test Split Distribution
 
